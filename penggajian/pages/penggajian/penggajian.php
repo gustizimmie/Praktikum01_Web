@@ -3,7 +3,7 @@
         <h3>Penggajian</h3>
     </div>
     <div class="col">
-        <a href="?page=pilihkaryawanpenggajian" class="btn btn-succes float-end">
+        <a href="?page=pilihkaryawanpenggajian" class="btn btn-success float-end ms-2">
             <i class="fa fa-plus-circle"></i>
             Tambah
         </a>

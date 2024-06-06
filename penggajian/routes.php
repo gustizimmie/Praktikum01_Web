@@ -43,6 +43,13 @@ switch ($page) {
         break;
     case "pilihkaryawanpenggajian";
         include "pages/penggajian/pilihkaryawanpenggajian.php";
+        break;
+    case "penggajiantambah":
+        include "pages/penggajian/penggajiantambah.php";
+        break;
+    case "penggajianhapus":
+        include "pages/penggajian/penggajianhapus.php";
+        break;
     default:
         include "pages/404.php";
 }
